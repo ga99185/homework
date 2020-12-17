@@ -1,4 +1,3 @@
-Homework 20201210
 請各位同學將APT1家族的惡意程式,透過Binary的字串分析,透過JaccardSimilarity,建立相似度矩陣
 (Similarity matrix),建立Network的Graph,以及將各自串建立成Network的節點,透過相似度公式計算
 節點是否要連成線,最後把分群後的圖檔存起來。
